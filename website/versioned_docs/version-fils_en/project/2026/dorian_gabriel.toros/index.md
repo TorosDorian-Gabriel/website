@@ -82,7 +82,6 @@ The power system is split into two distinct rails for stability: the 4WD motors 
 <div align="center">
   <img src="images/OrionSchematics.svg" alt="Orion Schematics" style="width: 60%;">
 </div>
-Place your KiCAD or similar schematics here in SVG format.
 
 ### Bill of Materials
 
