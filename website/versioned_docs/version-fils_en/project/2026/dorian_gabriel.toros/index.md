@@ -21,7 +21,7 @@ I chose this project because I wanted to make guidance more accessible to visual
 
 ## Architecture 
 <div align="center">
-  <img src="images/OrionArchitecture.svg" alt="Orion Architecture" style="width: 60%;">
+  <img src="images/OrionArchitecture.svg" alt="Orion Architecture" style="width: 60%;"/>
 </div>
 The system follows a decentralized command structure, where high-level strategy is handled by a mobile device and real-time safety is handled locally by the robot.
 
@@ -80,7 +80,7 @@ The power system is split into two distinct rails for stability: the 4WD motors 
 
 ### Schematics
 <div align="center">
-  <img src="images/OrionSchematics.svg" alt="Orion Schematics" style="width: 60%;">
+  <img src="images/OrionSchematics.svg" alt="Orion Schematics" style="width: 60%;"/>
 </div>
 
 ### Bill of Materials
