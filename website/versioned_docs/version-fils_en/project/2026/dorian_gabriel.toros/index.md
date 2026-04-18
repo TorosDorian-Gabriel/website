@@ -59,7 +59,7 @@ Got my idea approved, started ordering materials needed.
 ### Week 6 - 12 April
 All ordered materials arrived. I started doing small functionality tests to make sure I understand how they work.
 ### Week 13 - 19 April
-
+Worked on the website for the project.
 ### Week 20 - 26 April
 
 ### Week 27 April - 3 May
