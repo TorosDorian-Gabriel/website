@@ -99,6 +99,7 @@ The format is
 |--------|-------|-------|
 | [STM32 Nucleo-U545RE-Q](https://www.st.com/en/evaluation-tools/nucleo-u545re-q.html) | Main microcontroller running Rust control logic. | [286.27 RON](https://ro.mouser.com/ProductDetail/STMicroelectronics/NUCLEO-U545RE-Q?qs=mELouGlnn3cp3Tn45zRmFA%3D%3D)  |
 
+
 ## Software
 
 | Library | Description | Usage |
@@ -110,12 +111,16 @@ The format is
 | [embassy-executor](https://crates.io/crates/embassy-executor) | Async executor | Runs concurrent tasks |
 | [embassy-time](https://crates.io/crates/embassy-time) | Time management | Delays and scheduling |
 | [embassy-stm32](https://crates.io/crates/embassy-stm32) | STM32 HAL | GPIO, UART, PWM control |
-| [heapless](https://crates.io/crates/heapless) | Fixed-size data structures | Memory-safe buffers |
 | [embassy-sync](https://crates.io/crates/embassy-sync) | Synchronization primitives | Task coordination |
+| [heapless](https://crates.io/crates/heapless) | Fixed-size data structures | Memory-safe buffers |
 | [defmt](https://crates.io/crates/defmt) | Logging framework | Debugging output |
 | [defmt-rtt](https://crates.io/crates/defmt-rtt) | RTT transport | Real-time logs |
-| [panic-halt](https://crates.io/crates/panic-halt) | Panic handler | Stops execution on error |
+| [panic-probe](https://crates.io/crates/panic-probe) | Panic handler with logging | Debugging crashes |
 | [nb](https://crates.io/crates/nb) | Non-blocking abstractions | Peripheral communication |
+| [esp-hal](https://crates.io/crates/esp-hal) | ESP32 hardware abstraction | Control of ESP32 peripherals |
+| [esp-radio](https://crates.io/crates/esp-radio) | Wireless communication stack | WiFi/BLE communication |
+| [smoltcp](https://crates.io/crates/smoltcp) | Embedded TCP/IP stack | Networking for ESP32 |
+| [esp-alloc](https://crates.io/crates/esp-alloc) | Heap allocator for ESP | Dynamic memory on ESP32 |
 
 
 ## Links
